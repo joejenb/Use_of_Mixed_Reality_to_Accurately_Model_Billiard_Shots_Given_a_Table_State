@@ -3,5 +3,15 @@ This project aims to provide pool players with shot recommendations and accurate
 
 ## Example Usage
 
-Generally tends to be smoother when not transferring to mobile device for mixes reality
 
+https://user-images.githubusercontent.com/30124151/188333751-56096d89-013d-4a26-a3d8-b2e02dac8f58.mp4
+
+
+Generally tends to be smoother when not transferring to mobile device for mixed reality
+
+
+https://user-images.githubusercontent.com/30124151/188333952-97716746-57c5-4095-8021-d13da4508bb9.mp4
+
+
+![Cue_Line](https://user-images.githubusercontent.com/30124151/188333830-4327ab6f-7cd1-4ea9-ba83-561903fa4200.gif)
+![Cue_Thresh](https://user-images.githubusercontent.com/30124151/188333836-7e0b94aa-b901-4f0f-be97-627869e9387f.gif)
